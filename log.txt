@@ -1,0 +1,555 @@
+已经成功启动Winsocket	Thu Dec 07 21:07:15 2023
+已经创建套接字	Thu Dec 07 21:07:15 2023
+发送WRQ请求成功	send20bytes	文件名:test.txt	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:0	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:1	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:1	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:2	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:2	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:3	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:3	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:4	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:4	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:5	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:5	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:6	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:6	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:7	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:7	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:8	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:8	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:9	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:9	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:10	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:10	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:11	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:11	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:12	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:12	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:13	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:13	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:14	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:14	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:15	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:15	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:16	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:16	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:17	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:17	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:18	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:18	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:19	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:19	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:20	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:20	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:21	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:21	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:22	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:22	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:23	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:23	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:24	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:24	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:25	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:25	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:26	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:26	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:27	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:27	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:28	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:28	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:29	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:29	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:30	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:30	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:31	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:31	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:32	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:32	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:33	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:33	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:34	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:34	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:35	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:35	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:36	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:36	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:37	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:37	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:38	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:38	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:39	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:39	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:40	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:40	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:41	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:41	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:42	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:42	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:43	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:43	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:44	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:44	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:45	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:45	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:46	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:46	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:47	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:47	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:48	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:48	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:49	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:49	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:50	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:50	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:51	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:51	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:52	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:52	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:53	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:53	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:54	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:54	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:55	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:55	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:56	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:56	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:57	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:57	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:58	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:58	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:59	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:59	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:60	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:60	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:61	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:61	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:62	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:62	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:63	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:63	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:64	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:64	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:65	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:65	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:66	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:66	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:67	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:67	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:68	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:68	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:69	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:69	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:70	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:70	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:71	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:71	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:72	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:72	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:73	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:73	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:74	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:74	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:75	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:75	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:76	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:76	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:77	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:77	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:78	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:78	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:79	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:79	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:80	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:80	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:81	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:81	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:82	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:82	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:83	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:83	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:84	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:84	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:85	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:85	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:86	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:86	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:87	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:87	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:88	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:88	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:89	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:89	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:90	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:90	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:91	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:91	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:92	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:92	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:93	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:93	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:94	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:94	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:95	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:95	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:96	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:96	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:97	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:97	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:98	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:98	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:99	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:99	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:100	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:100	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:101	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:101	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:102	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:102	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:103	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:103	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:104	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:104	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:105	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:105	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:106	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:106	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:107	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:107	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:108	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:108	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:512bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send516bytes	数据包序号:109	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:109	Thu Dec 07 21:07:25 2023
+从test.txt文件读取了	size:0bytes			Thu Dec 07 21:07:25 2023
+发送数据包成功	send4bytes	数据包序号:110	Thu Dec 07 21:07:25 2023
+接收ACK包成功	receive4bytes	ACK序号:110	Thu Dec 07 21:07:25 2023
+发送RRQ请求成功	send17bytes	文件名:test.txt	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:1	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:1	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:2	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:2	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:3	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:3	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:4	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:4	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:5	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:5	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:6	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:6	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:7	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:7	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:8	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:8	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:9	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:9	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:10	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:10	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:11	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:11	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:12	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:12	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:13	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:13	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:14	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:14	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:15	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:15	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:16	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:16	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:17	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:17	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:18	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:18	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:19	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:19	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:20	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:20	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:21	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:21	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:22	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:22	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:23	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:23	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:24	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:24	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:25	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:25	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:26	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:26	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:27	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:27	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:28	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:28	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:29	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:29	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:30	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:30	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:31	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:31	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:32	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:32	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:33	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:33	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:34	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:34	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:35	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:35	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:36	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:36	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:37	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:37	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:38	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:38	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:39	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:39	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:40	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:40	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:41	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:41	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:42	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:42	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:43	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:43	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:44	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:44	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:45	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:45	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:46	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:46	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:47	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:47	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:48	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:48	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:49	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:49	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:50	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:50	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:51	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:51	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:52	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:52	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:53	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:53	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:54	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:54	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:55	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:55	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:56	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:56	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:57	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:57	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:58	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:58	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:59	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:59	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:60	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:60	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:61	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:61	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:62	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:62	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:63	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:63	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:64	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:64	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:65	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:65	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:66	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:66	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:67	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:67	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:68	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:68	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:69	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:69	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:70	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:70	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:71	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:71	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:72	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:72	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:73	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:73	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:74	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:74	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:75	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:75	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:76	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:76	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:77	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:77	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:78	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:78	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:79	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:79	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:80	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:80	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:81	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:81	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:82	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:82	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:83	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:83	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:84	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:84	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:85	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:85	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:86	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:86	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:87	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:87	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:88	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:88	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:89	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:89	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:90	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:90	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:91	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:91	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:92	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:92	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:93	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:93	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:94	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:94	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:95	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:95	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:96	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:96	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:97	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:97	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:98	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:98	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:99	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:99	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:100	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:100	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:101	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:101	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:102	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:102	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:103	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:103	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:104	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:104	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:105	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:105	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:106	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:106	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:107	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:107	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:108	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:108	Thu Dec 07 21:07:32 2023
+接收数据成功	receive516bytes	数据包序号:109	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:109	Thu Dec 07 21:07:32 2023
+接收数据成功	receive4bytes	数据包序号:110	Thu Dec 07 21:07:32 2023
+ACK包发送成功	send4bytes	ACK包序号:110	Thu Dec 07 21:07:32 2023
